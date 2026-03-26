@@ -1,0 +1,26 @@
+[2026-03-26 15:18:25] INFO - === Aplicación iniciada correctamente ===
+[2026-03-26 15:19:28] INFO - LOGIN EXITOSO | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 15:19:51] INFO - LOGOUT | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 15:19:57] INFO - LOGIN EXITOSO | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:17:28] INFO - === Aplicación iniciada correctamente ===
+[2026-03-26 16:17:29] INFO - === Aplicación iniciada correctamente ===
+[2026-03-26 16:18:29] INFO - LOGIN EXITOSO | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:18:46] INFO - LOGOUT | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:22:40] INFO - LOGIN EXITOSO | id=1 | correo=juan@example.com | ip=127.0.0.1
+[2026-03-26 16:22:55] INFO - LOGIN EXITOSO | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:23:55] INFO - LOGOUT | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:24:07] WARNING - LOGIN FALLIDO | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:24:11] WARNING - LOGIN FALLIDO | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:24:14] WARNING - LOGIN FALLIDO | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:25:31] INFO - LOGIN EXITOSO | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:25:41] INFO - LOGOUT | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:25:59] INFO - REGISTRO EXITOSO | id=3 | correo=correoprueba@gmail.com | nombre=Emmanuelle | ip=127.0.0.1
+[2026-03-26 16:27:23] INFO - LOGIN EXITOSO | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 16:29:13] INFO - === Aplicación iniciada correctamente ===
+[2026-03-26 16:29:16] INFO - LOGIN EXITOSO | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 17:31:39] INFO - LOGOUT | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 17:35:24] INFO - LOGIN EXITOSO | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 17:35:39] INFO - LOGOUT | id=2 | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 17:35:51] WARNING - LOGIN FALLIDO | correo=admin@example.com | ip=127.0.0.1
+[2026-03-26 17:36:14] WARNING - REGISTRO FALLIDO (correo duplicado) | correo=correoprueba@gmail.com | ip=127.0.0.1
+[2026-03-26 17:36:25] INFO - REGISTRO EXITOSO | id=4 | correo=bear.oso2001@gmail.com | nombre=Emmanuelle | ip=127.0.0.1
